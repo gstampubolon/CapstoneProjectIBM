@@ -24,6 +24,7 @@ File ini telah melalui proses pembersihan (cleaning) secara lokal dan siap digun
 - Ulasan positif sering mengandung kata-kata seperti: "mantap", "puas", "berfungsi baik", yang diklasifikasikan dengan sangat baik oleh model.
 
 🤖 AI Support Explanation
+
 Proyek ini memanfaatkan pendekatan Artificial Intelligence berbasis *Natural Language Processing (NLP)* dan *Machine Learning*. Dengan memanfaatkan teknik seperti:
 - *TF-IDF Vectorization* untuk representasi numerik dari teks
 - Model klasifikasi SVM dan Logistic Regression untuk membedakan sentimen positif dan negatif
