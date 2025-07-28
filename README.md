@@ -15,10 +15,10 @@ Dataset yang digunakan tersedia di dalam repositori ini dengan nama file:
 File ini telah melalui proses pembersihan (cleaning) secara lokal dan siap digunakan untuk pelatihan model.
 
 🔍 Insight & Findings
-- Sebagian besar ulasan bersentimen positif**, berdasarkan distribusi data dan nilai recall yang tinggi untuk label positif.
-- Model SVM menunjukkan performa terbaik** dengan akurasi mencapai 94% dan f1-score tinggi untuk kedua label.
-- Ulasan negatif cenderung menggunakan kata-kata seperti**: "buruk", "gagal", "tidak berfungsi", yang membantu model mengenali sentimen negatif.
-- Ulasan positif sering mengandung kata-kata seperti**: "mantap", "puas", "berfungsi baik", yang diklasifikasikan dengan sangat baik oleh model.
+- Sebagian besar ulasan bersentimen positif, berdasarkan distribusi data dan nilai recall yang tinggi untuk label positif.
+- Model SVM menunjukkan performa terbaik dengan akurasi mencapai 94% dan f1-score tinggi untuk kedua label.
+- Ulasan negatif cenderung menggunakan kata-kata seperti: "buruk", "gagal", "tidak berfungsi", yang membantu model mengenali sentimen negatif.
+- Ulasan positif sering mengandung kata-kata seperti: "mantap", "puas", "berfungsi baik", yang diklasifikasikan dengan sangat baik oleh model.
 
 🤖 AI Support Explanation
 Proyek ini memanfaatkan pendekatan Artificial Intelligence berbasis *Natural Language Processing (NLP)* dan *Machine Learning*. Dengan memanfaatkan teknik seperti:
