@@ -29,7 +29,7 @@ Proyek ini memanfaatkan pendekatan Artificial Intelligence berbasis *Natural Lan
 - *TF-IDF Vectorization* untuk representasi numerik dari teks
 - Model klasifikasi SVM dan Logistic Regression untuk membedakan sentimen positif dan negatif
 
-Teknologi AI ini memungkinkan analisis ribuan review dalam waktu singkat dan akurat, sehingga perusahaan bisa:
+Teknologi AI ini dapat menganalisis ribuan review dalam waktu singkat dan akurat, sehingga perusahaan bisa:
 - Menghemat waktu analisis manual
 - Mendeteksi tren dan isu produk secara otomatis
 - Mengoptimalkan layanan berdasarkan umpan balik pelanggan secara real-time
