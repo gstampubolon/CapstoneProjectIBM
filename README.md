@@ -1,7 +1,9 @@
 📌 Title Project
+
 "Sentiment Classification Analysis on Customer Reviews Using SVM and Logistic Regression for Strategic Decision Making"
 
 🧭 Project Overview
+
 Dalam era digital saat ini, review pelanggan menjadi sumber informasi yang sangat berharga bagi perusahaan. Proyek ini bertujuan untuk mengklasifikasikan sentimen dari ulasan pelanggan menjadi **positif** atau **negatif** menggunakan dua algoritma machine learning: **Support Vector Machine (SVM)** dan **Logistic Regression (LR)**.
 
 Tujuan utama dari proyek ini adalah untuk:
@@ -10,6 +12,7 @@ Tujuan utama dari proyek ini adalah untuk:
 - Mendukung pengambilan keputusan strategis berbasis data pelanggan
 
 🔗 Raw Dataset Link
+
 Dataset yang digunakan tersedia di dalam repositori ini dengan nama file:
 [`reviews.csv`](./reviews.csv) dan [`reviews_clean.csv`](./reviews_clean.csv)
 File ini telah melalui proses pembersihan (cleaning) secara lokal dan siap digunakan untuk pelatihan model.
